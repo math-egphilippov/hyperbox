@@ -15,3 +15,7 @@ Current version is 0.1, so syntax limited with
 Created by Svyatoslav Yakimov. 
 Telegramm: scp1001 
 Waves donation adress (Current balance: 0) 3P5gNvDVRgRme8tVqtCaJzmSUSkjypr7cWe 
+
+## Links
+
+ * A Habracomment https://habr.com/ru/post/450016/#comment_20093302 by S Yakimov https://habr.com/ru/users/scp1001/ 
