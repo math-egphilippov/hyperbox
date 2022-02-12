@@ -16,6 +16,16 @@ Created by Svyatoslav Yakimov.
 Telegramm: scp1001 
 Waves donation adress (Current balance: 0) 3P5gNvDVRgRme8tVqtCaJzmSUSkjypr7cWe 
 
-## Links
+## Additional info
 
- * A Habracomment https://habr.com/ru/post/450016/#comment_20093302 by S Yakimov https://habr.com/ru/users/scp1001/ 
+### Comment 1
+
+A Habracomment https://habr.com/ru/post/450016/#comment_20093302 by S Yakimov https://habr.com/ru/users/scp1001/ . Its content has been copied & pasted below:
+
+```
+scp1001
+30.04.2019 в 14:43 
+Сегодня утром я выложил исходники на github в свободный доступ:
+github.com/scp1001/hyperbox
+Вся логика VM содержится в 2 файлах, hyperbox.php и hyperbox2.php
+```
